@@ -1,5 +1,5 @@
 name: BedrockScoreTags
-version: 1.0
+version: 1.0.0
 api: 3.0.0
 author: MrNinja008
 main: MrNinja008\BedrockScore\Tags
