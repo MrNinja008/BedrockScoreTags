@@ -5,4 +5,6 @@ branches:
 projects:
   BedrockScoreTags:
     path: ""
+    lint:
+       phpstan: false
 ...
