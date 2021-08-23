@@ -14,8 +14,8 @@ use pocketmine\Player;
 use function strval;
 
 class Tags extends PluginBase {
-      /** @var Main  */
-    Private $BedrockClans;
+      /** @var BedrockClans  */
+     Public $BedrockClans;
 	   
 public function onEnable()
   {
