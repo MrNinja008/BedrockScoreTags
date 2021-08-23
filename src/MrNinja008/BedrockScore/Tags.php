@@ -15,7 +15,7 @@ use function strval;
 
 class Tags extends PluginBase {
       /** @var BedrockClans  */
-     Public $BedrockClans;
+        public $BedrockClans;
 	   
 public function onEnable()
   {
